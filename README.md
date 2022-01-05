@@ -13,7 +13,7 @@ ALT requires a working installation of FSL and octave or matlab (tested on matla
     (in octave or matlab): cleaning('<mypathtofolder>/sub-001_rsfmri.ica')
 3) Optional: use manual labeling on a number of scans and compare labeling performance of ALT with manual ratings using evaluation.m
     
-    evaluation('<mypathtofolder>/sub-001_rsfmri.ica', manual_labels)
+    (in octave or matlab): evaluation('<mypathtofolder>/sub-001_rsfmri.ica', manual_labels)
   
 # Citations
 A detailed manuscript on ALT is currently available as a preprint here:
