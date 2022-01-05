@@ -6,10 +6,13 @@ ALT requires a working installation of FSL and octave or matlab (tested on matla
 
 # Example walkthrough
 1) First, run alt.sh on the melodic folder to generate the % of IC falling in gray matter and IC's power spectrum skewness metrics
+    
     alt.sh <mypathtofolder>/sub-001_rsfmri.ica
 2) Second, run cleaning.m on the melodic folder to generate the signal vs noise label 
+    
     (in octave or matlab): cleaning('<mypathtofolder>/sub-001_rsfmri.ica')
 3) Optional: use manual labeling on a number of scans and compare labeling performance of ALT with manual ratings using evaluation.m
+    
     evaluation('<mypathtofolder>/sub-001_rsfmri.ica', manual_labels)
   
 # Citations
