@@ -13,7 +13,7 @@
 % sub-002/filtered_func_data.ica
 % ...
   
-%% next, in matlab or octave calculate the agreement with manual labeling using the cofusion matrix
+% next, in matlab or octave calculate the agreement with manual labeling using the cofusion matrix
 addpath('<path to alt>\ALT');
 
 folders=cellstr(ls); % 
