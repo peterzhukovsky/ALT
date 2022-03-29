@@ -19,6 +19,9 @@ The *example_evaluation.m* script provides some shell code that strips manual la
 
 # Citations
 A detailed manuscript on ALT is currently available at Brain Imaging and Behavior:
+
 https://link.springer.com/article/10.1007/s11682-022-00650-9
+
 and the original preprint here:
+
 https://assets.researchsquare.com/files/rs-1061924/v1/ceb1b779-4c5c-4109-968d-108bdf1719be.pdf?c=1637336355
